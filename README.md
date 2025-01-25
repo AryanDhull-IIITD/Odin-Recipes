@@ -7,7 +7,7 @@ Welcome to my first web development project! This simple website features a coll
 1. `index.html`  
    The homepage that contains links to the three recipe pages.
 
-2. `style.css`
+2. `style.css`  
    The CSS stylesheet for the homepage
 
 3. `recipes/`  
@@ -17,6 +17,8 @@ Welcome to my first web development project! This simple website features a coll
    - Instant Pot Hamburger Soup  
 
    Each recipe file includes a brief description, a list of ingredients, and step-by-step instructions.
+
+   This directory also contains the CSS stylesheet for the recipe pages.
 
 4. `images/`  
    A folder containing images for each recipe, displayed on their respective pages.
@@ -31,6 +33,9 @@ Welcome to my first web development project! This simple website features a coll
 
 3. **Images**  
    Each recipe page is visually enhanced with images that complement the ingredients and final dish.
+
+4. **Styling**  
+   I regularly add more and more styles and designs via CSS.
 
 ## How to Use
 
