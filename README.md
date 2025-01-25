@@ -7,7 +7,10 @@ Welcome to my first web development project! This simple website features a coll
 1. `index.html`  
    The homepage that contains links to the three recipe pages.
 
-2. `recipes/`  
+2. `style.css`
+   The CSS stylesheet for the homepage
+
+3. `recipes/`  
    This directory contains individual recipe pages:
    - Chicken Tortilla Soup
    - Healing Cabbage Soup
@@ -15,7 +18,7 @@ Welcome to my first web development project! This simple website features a coll
 
    Each recipe file includes a brief description, a list of ingredients, and step-by-step instructions.
 
-3. `images/`  
+4. `images/`  
    A folder containing images for each recipe, displayed on their respective pages.
 
 ## Features
@@ -38,3 +41,4 @@ Welcome to my first web development project! This simple website features a coll
 ## Technologies Used
 
 - HTML5
+- CSS
